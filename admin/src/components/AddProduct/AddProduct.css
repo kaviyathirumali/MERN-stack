@@ -1,0 +1,26 @@
+.add-2, .add-3, .addproduct-field, .upload-image , button{
+    margin-top: 25px;
+}
+.add-1 p, .add-2 p, .add-3 p ,.addproduct-field p{
+    font-size: 20px;
+}
+.add-1 input ,.add-2 input , .add-3 input{
+    width: 600px;
+    height: 40px;
+}
+.addproduct-field select{
+    width: 200px;
+    height: 50px;
+}
+.upload-image img{
+    width: 100px;
+    height: 80px;
+    border: 1px solid black;
+}
+button{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+}

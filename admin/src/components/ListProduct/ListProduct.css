@@ -1,0 +1,30 @@
+ .listproduct-inner{
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr 1fr 1fr 1fr;
+    gap: 20px;
+    padding: 10px 50px;
+    margin: 30px;
+    width: 100%;
+    height: 100px;
+}
+.listproduct-head{
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr 1fr 1fr 1fr;
+    gap: 20px;
+    padding: 10px 50px;
+    margin: 30px;
+    width: 100%;
+    height: 30px;
+}
+.listproduct-inner .item-images{
+    height: 70px;
+    width: 70px;
+}
+.list-product p{
+    float: right;
+}
+.list-product h1{
+    text-align: center;
+}
+
+
